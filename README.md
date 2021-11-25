@@ -1,4 +1,3 @@
-https://youtu.be/
 # Bullet Trails in Unity
 In this tutorial you will learn how to create TrailRenderer bullet trails that can be configured on a Bullet level. This is an intentional design choice with the following assumptions:
 1. Your game you will have more than 1 gun.
